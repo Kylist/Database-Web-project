@@ -19,7 +19,10 @@ Billing: Your start up needs to make money. You need to envision a billing schem
   c. Populate Relations and Queries for my data base.
   d. Code for my website and introduction to open my website.
   
-3. ER diagram and Relational Schema
+3. How to Implement
+I used a NetBeans web application with fully implemented client-side (using HTML, CSS, and JavaScript) and server-side (using JSP and Java) codes. To run this project, first you will need to extract the .zip file, then copy the txt folder (found in the project folder) to this path: C:\Users\*Your user name*\AppData\Roaming\NetBeans\8.0.2\config\GF_4.*\domain1\config Then open the project using NetBeans IDE 8.0.2 (The full, all-in-one version on NetBeans website). In the IDE, go to File > Open Project and open the project folder.
+  
+4. ER diagram and Relational Schema
 
 ER Diagram:
 ![image](https://user-images.githubusercontent.com/28942562/84047216-08ae5080-a979-11ea-89ef-55e704168da7.png)
@@ -27,7 +30,7 @@ ER Diagram:
 Relational Schema
 ![image](https://user-images.githubusercontent.com/28942562/84047237-0e0b9b00-a979-11ea-9707-1f08a1d82adb.png)
  
-4. Image of my website
+5. Image of my website
 
 ![image](https://user-images.githubusercontent.com/28942562/84046335-f5e74c00-a977-11ea-9a7b-4a757d850231.png)
 
