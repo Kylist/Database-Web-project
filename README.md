@@ -18,8 +18,16 @@ Billing: Your start up needs to make money. You need to envision a billing schem
   b. Relational schema based on your E-R diagram.
   c. Populate Relations and Queries for my data base.
   d. Code for my website and introduction to open my website.
+  
+3. ER diagram and Relational Schema
+
+ER Diagram:
+![image](https://user-images.githubusercontent.com/28942562/84047216-08ae5080-a979-11ea-89ef-55e704168da7.png)
+
+Relational Schema
+![image](https://user-images.githubusercontent.com/28942562/84047237-0e0b9b00-a979-11ea-9707-1f08a1d82adb.png)
  
-3. Image of my website
+4. Image of my website
 
 ![image](https://user-images.githubusercontent.com/28942562/84046335-f5e74c00-a977-11ea-9a7b-4a757d850231.png)
 
