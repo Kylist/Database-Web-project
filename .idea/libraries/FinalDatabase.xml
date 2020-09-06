@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="FinalDatabase">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FinalDatabase/gson-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FinalDatabase/commons-lang3-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FinalDatabase/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FinalDatabase/mysql-connector-java-8.0.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FinalDatabase/mariadb-java-client-2.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <!-- Use this type of comment within HTML -->
+        <title>Database Project</title>
+        <link href="style/myStyle.css" rel="stylesheet" type="text/css" />
+        <link href="style/listStyle.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+
+        <div id="titleNav">
+            <div id="pageTitle">
+                Anh Q Tran - Final
+            </div>
+
+            <div id="nav">
+                <img title="Home" src="pics/dark_home_icon_H24.jpg" height="24" onclick = "ajaxFillId ('htmlPartials/homeContent.html', 'content')" alt="Home" >
+                &nbsp; 
+                <img title="User" height="24" onclick="toggle('accountDropDown', 100)" src="pics/dark_account_dd_icon_H24.jpg" alt="Account" >
+                &nbsp;
+                <img title="Customer" height="24" onclick="toggle('customerDropDown', 50)" src="pics/insert.jpg" alt="Customer" >
+                &nbsp;
+                <img title="Statistics" height="24" onclick="toggle('statisticsDropDown', 10)" src="pics/stats.jpg" alt="Statistics" >
+                &nbsp;
+                &nbsp;
+            </div>
+
+            <div class="dropDown" id="accountDropDown">
+                <a onclick = "ajaxFillId ('htmlPartials/logonContent.html', 'content')">Log In (Users)</a> <br/>
+                <a onclick = "account.getProfile('content')">Profile</a> <br/>
+                <a onclick = "derogatoryCRUD.list('content')">Manage Derogatory Comments</a> <br/>
+                <a onclick = "account.logoff('content')">Log Out</a>
+            </div>
+            <div class="dropDown" id="customerDropDown">
+                <a onclick = "articleInsert.startInsert()">Add An Article</a>
+            </div>  
+            <div class="dropDown" id="statisticsDropDown">
+                <a onclick = "statistics.drawGraph('content')">Business Statistics</a>
+            </div>  
+
+        </div>  <!-- end of titleNav -->
+        
+
+        <div id="content">
+
+        </div> <!-- content. [[Keep track of nesting]] -->
+        
+        <div id="footer">
+            CIS 4331
+        </div>
+        
+        <script src="js/ajax.js"></script>
+        <script src="js/account.js"></script>
+        <script src="js/buildTable.js"></script>
+        <script src="js/makePickList.js"></script>
+        <script src="js/articleInsert.js"></script>
+        <script src="js/derogatoryCRUD.js"></script>
+        <script src="js/statistics.js"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        
+        <script>
+            ajaxFillId('htmlPartials/homeContent.html', 'content');
+        </script>
+        
+    </body>
+</html>

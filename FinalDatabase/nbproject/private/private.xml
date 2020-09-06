@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/article/StringDataList.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/webUser/StringData.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/htmlPartials/logonContent.html</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/customer/StringData.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/htmlPartials/homeContent.html</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/pics/delete.png</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/style/myStyle.css</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/js/account.js</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/dbUtils/FormatUtils.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/js/statistics.js</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/js/derogatoryCRUD.js</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/derogatory/StringData.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/index.html</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/customer/StringDataList.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/js/articleInsert.js</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/article/StringData.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/dbUtils/ValidationUtils.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/htmlPartials/articleRequest.html</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/derogatory/StringDataList.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/js/ajax.js</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/dbUtils/PrepStatement.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/comment/StringData.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/webUser/StringDataList.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/webUser/DbMods.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/js/makePickList.js</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/htmlPartials/derogatoryContent.html</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/style/listStyle.css</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/article/DbMods.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/dbUtils/DbConn.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/role/StringDataList.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/role/StringData.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/comment/DbMods.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/view/WebUserView.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/src/java/model/derogatory/DbMods.java</file>
+            <file>file:/C:/Users/KyleTran/Desktop/FinalDatabase/web/js/buildTable.js</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,39 @@
+<div id="requestArea">
+    <center>
+    <table>
+        <tr id='articleRow'>
+            <td>Article Title</td>
+            <td><input type="text"  id="articleTitle"/></td>
+            <td ></td> 
+        </tr>
+        <tr id='authorRow'>
+            <td>Author Name</td>
+            <td><input type="text"  id="author"/></td>
+            <td ></td> 
+        </tr>
+        <tr id='topicRow'>
+            <td>Topic</td>
+            <td><input type="text"  id="topic"/></td>
+            <td ></td> 
+        </tr>
+        <tr>
+            <td>Select Customer</td>  
+            <td>
+                <select id="customerList">
+                    <!-- JS code will make ajax call to get all the roles 
+                    then populate this select tag's options with those roles -->
+                </select>
+            </td>
+
+            <td id="customerError" class="error"></td>
+        </tr>
+        <tr>
+            <!-- see js/insertUser.js to see the insertUser function (make sure index.html referencesinvokes the js file) -->
+            <td>
+                <button id="requestArticleButton" onclick="articleInsert.insertSave()">Request Article</button>
+            </td>
+            <td id="recordError" class="error"></td>
+            <td></td>
+        </tr>
+    </table></center>
+</div> 
